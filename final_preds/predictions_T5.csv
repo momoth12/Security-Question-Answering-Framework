@@ -1,0 +1,110 @@
+question_id,answer
+610d51681b4a094766c59e81,Privilege allocation follows the principle of least privilege
+610d51691b4a094766c59e82,"Setting and resetting of password is made through a secure process, including an ID check and relying on temporary password that is changed at first login"
+610d51691b4a094766c59e83,"Setting and resetting of password is made through a secure process, including an ID check and relying on temporary password that is changed at first login"
+610d51691b4a094766c59e84,Acme provides Mulifactor Authentication solution for login to applications and systems.
+610d51691b4a094766c59e85,Access are reviewed quarterly and rights are updated upon necessary following new business requirements
+610d51691b4a094766c59e86,Access right are allocated and account are provisioned following a strict process. Acme relies on a role based access system with an API to automatically propagate updates to all the system
+610d51691b4a094766c59e87,"Wireless are protected with password, connection are made through individual accounts and traffic is encrypted with state of the art protocols."
+610d51691b4a094766c59e88,Access are based on a user account and access is restricted to a few senior employees
+610d51691b4a094766c59e89,Only a few senior employees have access to customer data. Any access to data triggers an immutable logs tied to the user that requested the access.
+610d51691b4a094766c59e8a,Access are reviewed quarterly and rights are updated upon necessary following new business requirements
+610d51691b4a094766c59e8b,"Acme supports SSO with the following identity providers and system: Google, Azure AD, Github, OKTA and protocol following SAML standard"
+610d51691b4a094766c59e8c,All connection to Acme products and systems can only be performed from whitelisted IP adresses
+610d51691b4a094766c59e8d,AcmeCo has a teleworking policy to provide employees that work from home with secure remote connections.
+610d51691b4a094766c59e8e,"Setting and resetting of password is made through a secure process, including an ID check and relying on temporary password that is changed at first login"
+610d51691b4a094766c59e8f,Only a few senior employees have access to customer data. Any access to data triggers an immutable logs tied to the user that requested the access.
+610d51691b4a094766c59e90,All remote connections needs to be secured with a VPN
+610d51691b4a094766c59e91,Inactive sessions are timed out after one our of inactivity.
+610d51691b4a094766c59e92,AcmeCo has a teleworking policy to provide employees that work from home with secure remote connections.
+610d51691b4a094766c59e93,Acme maintains a company-wide password policy. Please refer to to this document : Password_Policy_latest.pdf
+610d51691b4a094766c59e94,All access rights are immediately revoked within 24h after employment termination
+610d51691b4a094766c59e95,A segregation of duty is in place to avoid individual having excessing privileges
+610d51691b4a094766c59e96,"Acme supports SSO with the following identity providers and system: Google, Azure AD, Github, OKTA and protocol following SAML standard"
+610d51691b4a094766c59e97,All remote connections needs to be secured with a VPN
+610d51691b4a094766c59e98,Acme provides Mulifactor Authentication solution for login to applications and systems.
+610d51691b4a094766c59e99,Privilege account are regularly monitors. All privilege activities is logged in a protected logging system.
+610d51691b4a094766c59e9a,Privilege account are regularly monitors. All privilege activities is logged in a protected logging system.
+610d51691b4a094766c59e9b,"Acmeco has an access control policy, regularly reviewed and communicated to all employees"
+610d51691b4a094766c59e9c,Acme provides Mulifactor Authentication solution for login to applications and systems.
+610d51691b4a094766c59e9d,"Wireless are protected with password, connection are made through individual accounts and traffic is encrypted with state of the art protocols."
+610d51691b4a094766c59e9e,"User are required to use complex passwords, (8+ characters), 1 special character."
+610d51691b4a094766c59e9f,"Acme supports SSO with the following identity providers and system: Google, Azure AD, Github, OKTA and protocol following SAML standard"
+610d51691b4a094766c59ea0,"Setting and resetting of password is made through a secure process, including an ID check and relying on temporary password that is changed at first login"
+610d51691b4a094766c59ea1,All access rights are immediately revoked within 24h after employment termination
+610d51691b4a094766c59ea2,All remote connections needs to be secured with a VPN
+610d51691b4a094766c59ea3,All connection to Acme products and systems can only be performed from whitelisted IP adresses
+610d51691b4a094766c59ea4,Only a few senior employees have access to customer data. Any access to data triggers an immutable logs tied to the user that requested the access.
+610d51691b4a094766c59ea5,"Acme supports SSO with the following identity providers and system: Google, Azure AD, Github, OKTA and protocol following SAML standard"
+610d51691b4a094766c59ea6,Privilege and access to utility program is restricted on all devices and systems
+610d51691b4a094766c59ea7,Access are reviewed quarterly and rights are updated upon necessary following new business requirements
+610d51691b4a094766c59ea8,Access are reviewed quarterly and rights are updated upon necessary following new business requirements
+610d51691b4a094766c59ea9,Acme maintains a company-wide password policy. Please refer to to this document : Password_Policy_latest.pdf
+610d51691b4a094766c59eaa,All remote connections needs to be secured with a VPN
+610d51691b4a094766c59eab,Acme provides Mulifactor Authentication solution for login to applications and systems.
+610d51691b4a094766c59eac,Inactive sessions are timed out after one our of inactivity.
+610d51691b4a094766c59ead,Inactive sessions are timed out after one our of inactivity.
+610d51691b4a094766c59eae,"Acme supports SSO with the following identity providers and system: Google, Azure AD, Github, OKTA and protocol following SAML standard"
+610d51691b4a094766c59eaf,Account are locked after 10 unsuccessful login attempts and an alert message is send to the impacted user
+610d51691b4a094766c59eb0,All connection to Acme products and systems can only be performed from whitelisted IP adresses
+610d51691b4a094766c59eb1,Password are always encrypted when transmitted and hashed when stored
+610d51691b4a094766c59eb2,All remote connection requires MFA (through the use of the VPN)
+610d51691b4a094766c59eb3,Access are reviewed quarterly and rights are updated upon necessary following new business requirements
+610d51691b4a094766c59eb4,"Setting and resetting of password is made through a secure process, including an ID check and relying on temporary password that is changed at first login"
+610d51691b4a094766c59eb5,"Acme supports SSO with the following identity providers and system: Google, Azure AD, Github, OKTA and protocol following SAML standard"
+610d51691b4a094766c59eb6,Password are always encrypted when transmitted and hashed when stored
+610d51691b4a094766c59eb7,"Wireless are protected with password, connection are made through individual accounts and traffic is encrypted with state of the art protocols."
+610d51691b4a094766c59eb8,Acme provides Mulifactor Authentication solution for login to applications and systems.
+610d51691b4a094766c59eb9,"Wireless are protected with password, connection are made through individual accounts and traffic is encrypted with state of the art protocols."
+610d51691b4a094766c59eba,Access are allocated and rights are allocated. Acme relies on a role based access system with an API to automatically propagate updates to all the system
+610d51691b4a094766c59ebb,Privilege allocation follows the principle of least privilege
+610d51691b4a094766c59ebc,Acme provides Mulifactor Authentication solution for login to applications and systems.
+610d51691b4a094766c59ebd,All remote connection requires MFA (through the use of the VPN)
+610d51691b4a094766c59ebe,Access are reviewed quarterly and rights are updated upon necessary following new business requirements
+610d51691b4a094766c59ebf,All access rights are immediately revoked within 24h after employment termination
+610d51691b4a094766c59ec0,Privilege allocation follows the principle of least privilege
+610d51691b4a094766c59ec1,Access to source code is restricted to engineering team based on their business requirement. Updates to sources code are validated with a peer review system and unit tests.
+610d51691b4a094766c59ec2,"User are required to use complex passwords, (8+ characters), 1 special character."
+610d51691b4a094766c59ec3,"Acme supports SSO with the following identity providers and system: Google, Azure AD, Github, OKTA and protocol following SAML standard"
+610d51691b4a094766c59ec4,All access rights are immediately revoked within 24h after employment termination
+610d51691b4a094766c59ec5,Password are always encrypted when transmitted and hashed when stored
+610d51691b4a094766c59ec6,Acme provides Mulifactor Authentication solution for login to applications and systems.
+610d51691b4a094766c59ec7,All remote connection requires MFA (through the use of the VPN)
+610d51691b4a094766c59ec8,"User are required to use complex passwords, (8+ characters), 1 special character."
+610d51691b4a094766c59ec9,"Setting and resetting of password is made through a secure process, including an ID check and relying on temporary password that is changed at first login"
+610d51691b4a094766c59eca,All access rights are immediately revoked within 24h after employment termination
+610d51691b4a094766c59ecb,Acme maintains a company-wide password policy. Please refer to to this document : Password_Policy_latest.pdf
+610d51691b4a094766c59ecc,All access rights are immediately revoked within 24h after employment termination
+610d51691b4a094766c59ecd,Acme provides Mulifactor Authentication solution for login to applications and systems.
+610d51691b4a094766c59ece,All account are tied to a unique and nominative id. Sharing of account is prohibited.
+610d51691b4a094766c59ecf,All remote connection requires MFA (through the use of the VPN)
+610d51691b4a094766c59ed0,Acme doesn't enforce regular password change as it goes against NIST recommendation.
+610d51691b4a094766c59ed1,"Wireless are protected with password, connection are made through individual accounts and traffic is encrypted with state of the art protocols."
+610d51691b4a094766c59ed2,All access rights are immediately revoked within 24h after employment termination
+610d51691b4a094766c59ed3,Password are always encrypted when transmitted and hashed when stored
+610d51691b4a094766c59ed4,Acme has a public API available at api.acme.com
+610d51691b4a094766c59ed5,"Acme supports SSO with the following identity providers and system: Google, Azure AD, Github, OKTA and protocol following SAML standard"
+610d51691b4a094766c59ed6,Acme provides Mulifactor Authentication solution for login to applications and systems.
+610d51691b4a094766c59ed7,"For each user, Acme keeps an history of the 10 previous passwords and prevents old passwords from being used again."
+610d51691b4a094766c59ed8,"Acme supports SSO with the following identity providers and system: Google, Azure AD, Github, OKTA and protocol following SAML standard"
+610d51691b4a094766c59ed9,Acme maintains a company-wide password policy. Please refer to to this document : Password_Policy_latest.pdf
+610d51691b4a094766c59eda,AcmeCo has a teleworking policy to provide employees that work from home with secure remote connections.
+610d51691b4a094766c59edb,Account are locked after 10 unsuccessful login attempts and an alert message is send to the impacted user
+610d51691b4a094766c59edc,"Acme supports SSO with the following identity providers and system: Google, Azure AD, Github, OKTA and protocol following SAML standard"
+610d51691b4a094766c59edd,All remote connection requires MFA (through the use of the VPN)
+610d51691b4a094766c59ede,Access to Information and data is based on a need to know principle
+610d51691b4a094766c59edf,"User are required to use complex passwords, (8+ characters), 1 special character."
+610d51691b4a094766c59ee0,"Acme supports SSO with the following identity providers and system: Google, Azure AD, Github, OKTA and protocol following SAML standard"
+610d51691b4a094766c59ee1,Acme doesn't enforce regular password change as it goes against NIST recommendation.
+610d51691b4a094766c59ee2,Account are locked after 10 unsuccessful login attempts and an alert message is send to the impacted user
+610d51691b4a094766c59ee3,Access right are allocated and account are provisioned following a strict process. Acme relies on a role based access system with an API to automatically propagate updates to all the system
+610d51691b4a094766c59ee4,Access right are allocated and account are provisioned following a strict process. Acme relies on a role based access system with an API to automatically propagate updates to all the system
+610d51691b4a094766c59ee5,Access are reviewed quarterly and rights are updated upon necessary following new business requirements
+610d51691b4a094766c59ee6,Access to source code is restricted to engineering team based on their business requirement. Updates to sources code are validated with a peer review system and unit tests.
+610d51691b4a094766c59ee7,All account are tied to a unique and nominative id. Sharing of account is prohibited.
+610d51691b4a094766c59ee8,"Wireless are protected with password, connection are made through individual accounts and traffic is encrypted with state of the art protocols."
+610d51691b4a094766c59ee9,All remote connection requires MFA (through the use of the VPN)
+610d51691b4a094766c59eea,All access rights are immediately revoked within 24h after employment termination
+610d51691b4a094766c59eeb,Access to source code is restricted to engineering team based on their business requirement. Updates to sources code are validated with a peer review system and unit tests.
+610d51691b4a094766c59eec,Acme provides Mulifactor Authentication solution for login to applications and systems.
+610d51691b4a094766c59eed,"User are required to use complex passwords, (8+ characters), 1 special character."
